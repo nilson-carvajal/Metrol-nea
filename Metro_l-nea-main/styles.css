@@ -1,0 +1,200 @@
+
+.body{
+    background-color: rgb(203, 206, 206);
+    position: absolute;
+    
+}
+.contenedor{
+    background-color: white;
+    border: 0.052vw solid rgb(0, 0, 0);
+    border-radius: 0vw 1.042vw 1.042vw 0vw;
+    position: absolute;
+    width: 65.5vw ;
+    height: 47.875vw;
+    margin-top: 13.021vw;
+    margin-bottom: 1.042vw;
+    margin-left: 15.667vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 1;
+
+        
+}
+.Metrolínetarjeta{
+    
+    width: 46.875vw;
+    height: 30.646vw;
+   margin-right: 5.208vw;
+   margin-bottom: 5.208vw;
+   position: absolute;
+   z-index: 1;
+}
+.Logo_grande{
+    border: 1px rgb(56, 47, 47); 
+    margin-bottom: 41.667vw;
+    width: 15.752vw;
+    margin-right: 46.875vw;
+    position: absolute;
+    z-index: 1;
+    
+}
+.Verde_claro{
+    position: absolute;
+    width: 9.543vw;
+    margin-left: 41.667vw;
+    margin-top: 38.458vw;
+    z-index: 1;
+
+}
+.Logo_pequeño{
+    position: absolute;
+    width: 8.156vw;
+    margin-left: 41.667vw;
+    margin-top: 35.920vw;
+    z-index: 2;
+    
+
+}
+.Carrito{
+    position: absolute;
+    margin-bottom: 44.792vw;
+    width: 12.323vw;
+    margin-left: 58.729vw;
+    margin-top: -0.921vw;
+    z-index: 1;
+
+}
+.Lupa{
+    position: absolute;
+    margin-bottom: 41.146vw;
+    width: 2.323vw;
+    margin-left: 40.104vw;
+    z-index: 1;
+}
+.texto-1{
+    font-weight: 26.042vw;
+   font-family: tahoma Black;
+    font-size: 2.083vw;
+    margin-top: 31.25vw;
+    margin-right: 14.583vw;
+    position: absolute;
+   z-index:1 ;
+}
+.texto-2{
+    position: absolute;
+    font-family: Arial black;
+    font-size: 1.823vw;
+    margin-top: 36.458vw;
+    margin-left: -41.667vw;
+    z-index: 1;
+
+
+}
+.comprar{
+    position: absolute;
+    font-family: Arial black;
+    font-size: 1.902vw;
+    margin-left: 41.406vw;
+    margin-top: 42.993vw;
+    z-index: 1;
+}
+.Comprar-Tarjeta{
+position: absolute;
+font-family: Arial;
+text-decoration-line: underline;
+font-size: 1.916vw;
+margin-bottom: 42.908vw;
+margin-left: 2.417vw;
+z-index: 1;
+
+
+}
+.Ver-Saldo{
+    position: absolute;
+    color: black;
+    font-family: Arial;
+    font-size: 1.958vw;
+    margin-bottom: 40.996vw;
+    margin-left: 26.729vw;
+    z-index: 1;
+
+
+}
+.barra{
+    
+    background-color: rgb(0, 0, 0);
+    border: 0.052vw solid rgb(0, 0, 0);
+    border-radius: 0vw 1.042vw 1.042vw 0vw;
+    position: absolute;
+    width: 7.208vw;
+    height: 47.999vw;
+    text-align: center;
+    margin-top: 13.021vw;
+    margin-left: 75.958vw;
+    display: flex;
+    justify-content: center;
+    align-items: start;
+    z-index: 1;
+}
+.abajo{
+    position: absolute;
+    width: 1.345vw;
+    margin-left: 58.281vw;
+    margin-right: 58.333vw;
+    margin-top: 44.271vw;
+    
+
+}
+.arriba{
+    position: absolute;
+    width: 1.345vw;
+    margin-left: 58.281vw;
+    margin-right: 58.333vw;
+    margin-top: 1.302vw;
+    
+
+}
+.cantidad{
+    position: absolute;
+    font-family: Arial;
+    color: white;
+    font-size: 1.798vw;
+    margin-bottom: 52.083vw;
+    margin-top: 7.813vw;
+    margin-left: 0.052vw;
+    
+    
+    
+}
+    .cero-cuatro{
+    position: absolute;
+    font-family: Arial;
+    font-size: 1.702vw;
+    margin-left: 0.052vw;
+    margin-top: 15.625vw;
+    color: rgb(163, 163, 163);
+   
+}
+    .cero-cinco{
+
+    position: absolute;
+    font-family: Arial;
+    color: rgb(253, 253, 253);
+    font-size: 1.702vw;
+    margin-left: 0.052vw;
+    margin-top: 20.833vw;
+    z-index: 1;
+        
+        
+}
+    .cero-seis{
+    position: absolute;
+    font-family: Arial;
+    margin-left: 0.052vw;
+    font-size: 1.702vw;
+    color: rgb(163, 163, 163);
+    margin-top: 26.042vw;
+    z-index: 1;
+    
+}
